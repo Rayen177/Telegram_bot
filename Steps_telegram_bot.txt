@@ -1,0 +1,16 @@
+в telegram найти бота по созданию ботов, BotFather.
+create a new bot /newbot
+provide a name of your telegram bot, example Alexander_bot
+save the provided TOKEN for created bot
+
+open PyCharm:
+create a new project
+from terminal:
+pip install aiogram
+python -m venv .venv - to create a personal env
+source .venv/Scripts/Activate
+
+
+bot.py
+
+
